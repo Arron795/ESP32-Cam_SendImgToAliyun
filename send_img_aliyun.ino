@@ -28,13 +28,13 @@ int btnHold = 0;
 
 // #define SENSOR_PIN 10
 //以下信息需要自己修改
-#define WIFI_SSID "ARrons"  //替换自己的WIFI
-#define WIFI_PASSWD "76543201"   //替换自己的WIFI密码
+#define WIFI_SSID "WIFI_NAME"  //替换自己的WIFI
+#define WIFI_PASSWD "XXXXXXXXXXXXXXXXXXXX"   //替换自己的WIFI密码
 
 // 阿里云物联网 三元组
-#define PRODUCT_KEY "ic15IdwuJIW"                         //替换自己的PRODUCT_KEY
-#define DEVICE_NAME "ESP32-Camera_01"                       //替换自己的DEVICE_NAME
-#define DEVICE_SECRET "3a8c7c99b819d577766984c3a1f5ea7c"  //替换自己的DEVICE_SECRET \
+#define PRODUCT_KEY "XXXXXXXXXXXXXXXXXXXX"                         //替换自己的PRODUCT_KEY
+#define DEVICE_NAME "XXXXXXXXXXXXXXXXXXXX"                       //替换自己的DEVICE_NAME
+#define DEVICE_SECRET "XXXXXXXXXXXXXXXXXXXX"  //替换自己的DEVICE_SECRET \
                                                           
 
 //以下不需修改
