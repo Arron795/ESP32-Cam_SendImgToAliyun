@@ -5,21 +5,21 @@ const fs = require("fs");
 // 请根据实际情况修改下面的参数
 // host，在物联网平台首页，查看开发配置中查看
 //var YourHost="iot-06z00xxxxt6xc.amqp.iothub.aliyuncs.com"
-var YourHost="iot-06z00g5bmz0mlin.amqp.iothub.aliyuncs.com"
+var YourHost="XXXXXXXXXXXXXXXXXXXX"
 // 客户端ID，可自定义，长度不可超过64个字符
-var YourClientId="ic15IdwuJIW.ESP32-Camera_01"
+var YourClientId="XXXXXXXXXXXXXXXX"
 // 账号的 AccessKey。将鼠标移至账号头像上，然后单击AccessKey管理，获取AccessKey ID和AccessKey Secret。
 // var YourAccessKeyId="LTAI5tXXXXXXXXXXxLEMGYL2"
 // var YourAccessKeySecret="6vi2Txxxw9xxxrwig"
-var YourAccessKeyId="LTAI5tExvUAsQXrFCu6QqnQU"
-var YourAccessKeySecret="m5AGtvbgg1eXKHnC29cUFvR0WDUEGl"
+var YourAccessKeyId="XXXXXXXXXXXXXXXXXXXX"
+var YourAccessKeySecret="XXXXXXXXXXXXXXXXXXXX"
 // 在对应实例的消息转发 > 服务端订阅 > 消费组列表查看您的消费组ID。
 // var YourConsumerGroupId="DEFAULT_GROUP"
-var YourConsumerGroupId="3MAcgtZCFCQa6pzfpNyq000100"
+var YourConsumerGroupId="XXXXXXXXXXXXXXXXXXXX"
 
 // 物联网平台首页实例 ID
 // var YourIotInstanceId="iot-0600uxtxxsx"
-var YourIotInstanceId="iot-06z00g5bmz0mlin"
+var YourIotInstanceId="iot-XXXXXXXXXXXXXXXXXXXX"
 
 // 存放完整的图片字符串
 var imgStr = ""
